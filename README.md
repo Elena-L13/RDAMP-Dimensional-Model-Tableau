@@ -80,22 +80,8 @@ Key workflow adjustments:
 
 ## Dashboard Screenshots
 
-Screenshots below display each published dashboard view used for analysis.
+The screenshot below display the dashboard view used for analysis.
 
-### 1. Product Seasonality Analysis  
-![Product Seasonality](./screenshots/product_seasonality.png)
-
-### 2. Discount Impact Summary  
-![Discount Impact](./screenshots/discount_impact.png)
-
-### 3. Customer Segment Patterns  
-![Customer Patterns](./screenshots/customer_patterns.png)
-
-### 4. Channel Profitability  
-![Channel Profitability](./screenshots/channel_margin.png)
-
-### 5. Category Rankings by Region  
-![Region Category Rankings](./screenshots/region_rankings.png)
 
 ---
 
