@@ -30,7 +30,7 @@ The star schema consists of a single fact table—`fact_sales`—at the center, 
 
 The schema was designed using SQL in PostgreSQL and supports multi-angle analysis such as product trends, regional performance, customer behavior, and channel profitability.
 
-![ACE Superstore Star Schema](./ace_star_schema.png)
+A diagram of the schema can be found in the tableau folder.
 
 ---
 
@@ -78,9 +78,9 @@ Key workflow adjustments:
 
 ---
 
-### Dashboard Image
+### Dashboard Screenshots
 
-![Dashboard Screenshot](tableau/Elena_Losavio_Ace_Dashboard.png)
+The dashboard screenshots are attached in the tableau folder.
 
 ---
 
