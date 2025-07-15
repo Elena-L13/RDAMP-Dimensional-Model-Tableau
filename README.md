@@ -82,7 +82,3 @@ Key workflow adjustments:
 
 The dashboard screenshots are attached in the tableau folder.
 
----
-
-## Repository Structure
-├── build_schema.sql ├── reusable_queries.sql ├── ace_star_schema.png ├── README.md  ├── /data │ ├── dim_product.csv │ ├── dim_customer.csv │ ├── dim_order_mode.csv │ ├── dim_date.csv │ └── fact_sales.csv ├── /screenshots │ ├── product_seasonality.png │ ├── discount_impact.png │ ├── customer_patterns.png │ ├── channel_margin.png │ └── region_rankings.png
