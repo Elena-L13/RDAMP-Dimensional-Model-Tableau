@@ -82,7 +82,7 @@ Key workflow adjustments:
 
 The screenshot below display the dashboard view used for analysis.
 
-![Dashboard Screenshot](tableau/Elena_Losavio_Ace_Dashboard.png)
+(tableau/Elena Losavio_Ace_Dasboard.png)
 
 ---
 
