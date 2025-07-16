@@ -52,7 +52,7 @@ The schema was designed using SQL in PostgreSQL and supports multi-angle analysi
 ## SQL Setup Instructions
 
 1. Install PostgreSQL and open a SQL environment.
-2. Run the `build_schema.sql` script to create dimension and fact tables.
+2. Run the `Elena_Losavio_create_and_populate_dimensions_and_fact_sales.sql` script to create dimension and fact tables.
 3. Use `\copy` statements to import data from cleaned CSV files:
    - `dim_product.csv`
    - `dim_customer.csv`
