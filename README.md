@@ -30,7 +30,7 @@ The star schema consists of a single fact table—`fact_sales`—at the center, 
 
 The schema was designed using SQL in PostgreSQL and supports multi-angle analysis such as product trends, regional performance, customer behavior, and channel profitability.
 
-![Star Schema Diagram](tableau/Elena_Losavio_schema_diagram.png)
+![Star Schema Diagram](tableau/Elena_Losavio_star_schema_diagram.png)
 
 ---
 
