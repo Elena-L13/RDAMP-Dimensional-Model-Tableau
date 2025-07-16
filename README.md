@@ -90,7 +90,7 @@ This dashboard presents five key insights derived from ACE Superstore's sales da
 ---
 
 ### 2 Discount vs. Profit Analysis  
-**Chart Type:** Scatter plot or slope chart  
+**Chart Type:** Scatter plot chart 
 **Insight:** Evaluates the relationship between discounting and profitability.  
 📷 ![Discount vs Profit](tableau/screenshots/Elena_Losavio_discount_vs_profit.png)
 
@@ -111,7 +111,7 @@ This dashboard presents five key insights derived from ACE Superstore's sales da
 ---
 
 ### 5 Category Ranking by Region  
-**Chart Type:** Matrix or stacked bar chart  
+**Chart Type:** Treemap  
 **Insight:** Ranks product category performance across regions.  
 📷 ![Category by Region](tableau/screenshots/Elena_Losavio_ranking_by_region.png)
 
