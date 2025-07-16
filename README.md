@@ -78,7 +78,40 @@ Key workflow adjustments:
 
 ---
 
-### Dashboard Screenshots
+## 📸 Dashboard Visuals Overview
 
-The dashboard screenshots are attached in the tableau folder.
+This dashboard presents five key insights derived from ACE Superstore's sales data. Each visual is linked to its corresponding screenshot for reference.
+
+### 1 Product Seasonality Trends  
+**Chart Type:** Heatmap  
+**Insight:** Reveals monthly purchasing patterns by category.  
+📷 ![Product Seasonality](tableau/screenshots/Elena_Losavio_Seasonal_trends.png)
+
+---
+
+### 2 Discount vs. Profit Analysis  
+**Chart Type:** Scatter plot or slope chart  
+**Insight:** Evaluates the relationship between discounting and profitability.  
+📷 ![Discount vs Profit](tableau/screenshots/Elena_Losavio_discount_vs_profit.png)
+
+---
+
+### 3 Average Order Value by Channel and Segment  
+**Chart Type:** Combo chart  
+**Insight:** Compares order values across market segments and channels.  
+📷 ![Order Value by Segment](tableau/screenshots/Elena_Losavio_average_order_value.png)
+
+---
+
+### 4 Top 10 Customers by Profit Contribution  
+**Chart Type:** Horizontal bar chart  
+**Insight:** Highlights your most profitable customers.  
+📷 ![Top Customers](tableau/screenshots/Elena_Losavio_top10_customers.png)
+
+---
+
+### 5 Category Ranking by Region  
+**Chart Type:** Matrix or stacked bar chart  
+**Insight:** Ranks product category performance across regions.  
+📷 ![Category by Region](tableau/screenshots/Elena_Losavio_ranking_by_region.png)
 
