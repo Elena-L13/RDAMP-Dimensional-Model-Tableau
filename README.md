@@ -78,7 +78,7 @@ Key workflow adjustments:
 
 ---
 
-## 📸 Dashboard Visuals Overview
+## Dashboard Visuals Overview
 
 This dashboard presents five key insights derived from ACE Superstore's sales data. Each visual is linked to its corresponding screenshot for reference.
 
@@ -87,12 +87,16 @@ This dashboard presents five key insights derived from ACE Superstore's sales da
 **Insight:** Reveals monthly purchasing patterns by category.  
 ![Product Seasonality](tableau/screenshots/Elena_Losavio_Seasonal_trends.png)
 
+Kitchenware sales are high and stable, with peaks in March (possibly linked to the start of spring) and August (potentially due to barbecues). Outdoor goods and clothing are also top performers. Summer sales overall appear less stable and less frequent.
+
 ---
 
 ### 2 Discount vs. Profit Analysis  
 **Chart Type:** Scatter plot chart
 **Insight:** Evaluates the relationship between discounting and profitability.  
 ![Discount vs Profit](tableau/screenshots/Elena_Losavio_discount_vs_profit.png)
+
+Discounted items within the 12% to 22% range perform best. Kitchenware, outdoor goods and clothing are strong across seasons and most profitable when discounted within this range. Toys and music are rarely discounted and generate low profit, suggesting a review of the discount strategy.
 
 ---
 
@@ -108,6 +112,8 @@ This dashboard presents five key insights derived from ACE Superstore's sales da
 **Insight:** Highlights your most profitable customers.  
 ![Top Customers](tableau/screenshots/Elena_Losavio_top10_customers.png)
 
+The most profitable customer generate £36K, twice the amount of the second most profitable. Further investigation is recommended to determine if these are bulk orders or a corporate partner, and to explore extending similar agreements to other large customers.
+
 ---
 
 ### 5 Category Ranking by Region  
@@ -115,3 +121,11 @@ This dashboard presents five key insights derived from ACE Superstore's sales da
 **Insight:** Ranks product category performance across regions.  
 ![Category by Region](tableau/screenshots/Elena_Losavio_ranking_by_region.png)
 
+Product performance varies between regions. In Scotland, investing in the outdoor range could attract holidaymakers interested in hiking and related activities. In the East Midlands, there is stronger demand for home and kitchen products, which could guide targeted expansion.
+
+## Key Recommendations
+
+- Maintain focus on kitchenware, outdoor goods and clothing, with seasonal campaigns in spring and late summer.
+- Apply between 12% and 22% discounts strategically to maximise profit in high-performing categories.
+- Investigate top customers to identify bulk or corporate opportunities, then expand similar partnerships.
+- Tailor product ranges to regional preferences, investing in outdoor goods for Scotland and home/kitchen products for the East Midlands.
