@@ -105,6 +105,8 @@ Discounted items within the 12% to 22% range perform best. Kitchenware, outdoor 
 **Insight:** Compares order values across market segments and channels.  
 ![Order Value by Segment](tableau/screenshots/Elena_Losavio_average_order_value.png)
 
+High-value, high-profit categories differ by channel: bicycles lead in-store, while computers and outdoor goods perform strongly online. Low performers may need review or repositioning.
+
 ---
 
 ### 4 Top 10 Customers by Profit Contribution  
